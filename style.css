@@ -4,3 +4,10 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+.botao{
+    background-color: aqua;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
